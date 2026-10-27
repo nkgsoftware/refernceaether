@@ -57,3 +57,20 @@ export interface KnowledgeCacheTelemetry {
     userIdOrToken: string;
   };
 }
+
+2. Live Agent Orchestration Engine
+The platform pipes raw context into structured JSON execution graphs, evaluating cosine similarity against active vector caches before delegating complex multi-step reasoning to cloud agent endpoints.
+
+💳 Platform Tiers
+Aether OS offers an accessible local workspace alongside high-throughput cloud utility tiers for power developers.
+
+👉 Access Aether OS Console Here
+
+Basic Tier (Local / Standard): Free access to localized vector caching, standard dynamic context grounding, and real-time query telemetry.
+
+Premium Tier (Cloud Intelligence): Unlock unlimited Agentic RAG query decomposition, file uploads, high-throughput cloud endpoints, and dedicated secret API key generation (ath_live_*) — currently available with the EARLYBIRD launch promo ($19/mo).
+
+🔒 Security, Intellectual Property & License
+All proprietary RAG algorithms, database vector indexes, and system prompts remain closed-source private property. This public repository serves strictly as a technical SDK specification and architectural whitepaper for enterprise integrations.
+
+Copyright © 2026 NKG SOFTWARE Creation Core. System Tier 1 Security Secured. All rights reserved.
